@@ -1,9 +1,9 @@
 html {
 	margin: 20px;
-	background-color: white;
+	background-color: lightblue;
 }
  h1{
- 	font-size: 50px;
+ 	font: 50px, arial, sans-serif;
  }
  
  p{
